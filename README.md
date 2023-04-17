@@ -14,3 +14,8 @@ The application displays up to 64 images at a time and provides a "Show More" bu
 1. Store images in the "data/Images"
 2. Precompute the descriptor vectors for your images using CLIP and store them in the "data/CLIP_VITB32.csv" file. 
 3. Run the code.
+
+
+**Interface:**
+
+<img width="1558" alt="App" src="https://user-images.githubusercontent.com/87270011/232566915-bf696a5d-9fef-4ac4-b109-3df008665e49.png">
